@@ -18,8 +18,8 @@ body {
 }
 
 .header_img {
-	width: 40%;
-	height: 300px;
+	width: 350px;
+	height: 250px;
 	border-radius: 5px;
 }
 
@@ -143,10 +143,10 @@ body {
 		padding: 20px 0;
 	}
 
-	.header_img {
+	/*.header_img {
 		width: 40%;
 		height: 300px;
-	}
+	}*/
 }
 
 @media (min-width: 768px) {

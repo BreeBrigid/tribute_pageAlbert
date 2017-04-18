@@ -17,7 +17,7 @@ body {
 	text-align: center;
 }
 
-.header_Img {
+.header_img {
 	width: 40%;
 	height: 300px;
 	border-radius: 5px;
@@ -29,7 +29,7 @@ body {
 	color: #3d5166;
 }
 
-#mainContent {
+#main_content {
 	width: 100%;
 	padding: 10px;
 }
@@ -54,13 +54,13 @@ body {
 	line-height: 1.5em;
 }
 
-.figureImg {
+.figure_img {
 	display: block;
 	width: 100%;
 	border-radius: 5px;
 }
 
-.figCaption {
+.fig_caption {
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -143,14 +143,14 @@ body {
 		padding: 20px 0;
 	}
 
-	.header_Img {
+	.header_img {
 		width: 40%;
 		height: 300px;
 	}
 }
 
 @media (min-width: 768px) {
-	#mainContent {
+	#main_content {
 		max-width: 1000px;
 		margin: 0 auto;
 		padding: 20px;
